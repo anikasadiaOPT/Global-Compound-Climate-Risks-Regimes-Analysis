@@ -112,7 +112,16 @@ SS = (F1_ML − F1_persistence) / (1 − F1_persistence)
 
 ## 🔄 Workflow Pipeline
 
-
+```mermaid
+flowchart TD
+    A[ERA5 Data] --> B[Preprocessing\nAnomaly Detection + Standardization]
+    B --> C[PCA → PC1\nMCSI]
+    C --> D[Clustering\nClimate Regimes]
+    D --> E[ML Prediction\nRF + XGBoost]
+    E --> F[Baseline Comparison\nPersistence Model]
+    F --> G[SHAP Explainability]
+    G --> H[Trend Analysis\nMann-Kendall + FDR]
+```
 
 ---
 
