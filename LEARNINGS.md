@@ -22,6 +22,9 @@ t2m(2-meter temperature): It is used as the primary thermodynamic state variable
 tp(Total Precipitation): tp indicates the total amount of water on the Earth's surface because some places have a tropical monsoon or long-lasting rainfall or snowfall. Somewhere in the world, tp is inversely related to t2m. It is highly important to calculate the moisture-deficit component(the amount of water required to bring back the soil moisture) of MCSI(Multivariate Climate State Index).
 
 
-tcc(Total Cloud Coverage): tcc has Daytime and night time effect. 
-In Daytime - High tcc can reflect the solar radiation to space and helps the surface become cooler (It is called Albedo System). 
+tcc(Total Cloud Coverage): tcc has Daytime and nighttime effects. 
+In Daytime, High tcc can reflect solar radiation to space and helps the surface become cooler (It is called the Albedo effect). Low tcc can increase the temperature.
+
+In Nighttime, the greenhouse gases try to leave the surface, but High tcc traps them on Earth. As a result, the temperature of the Earth is increasing, and the snows are melting, etc. 
+With low tcc, the heat escapes from the Earth to space and the upper atmosphere. As a result, the temperature decreases very fast. 
 
