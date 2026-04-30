@@ -64,7 +64,17 @@ What I have learned during this journey:
                           <img width="316" height="72" alt="image" src="https://github.com/user-attachments/assets/2d6a5d80-fbbe-4fb2-b297-283646fc8a9e" />
 
 Anomalies of SSR:
+
 +<img width="535" height="429" alt="image" src="https://github.com/user-attachments/assets/bf8615a3-d3f8-4791-8902-4ca8ad50d425" />
+
+The Color Language
+Red Bands (Positive Z-scores): These years had significantly higher-than-average solar radiation. This usually indicates very clear skies and low cloud cover. Look at roughly 2022—it has a strong red stripe across almost the entire year.
+
+Blue Bands (Negative Z-scores): These represent "dimmer" years with high cloud cover or atmospheric aerosols.
+
+White/Pale Areas: These are "Normal" months where the weather behaved exactly like the 34-year average.
+
+
 
 
 ## ✨ Closing Note
