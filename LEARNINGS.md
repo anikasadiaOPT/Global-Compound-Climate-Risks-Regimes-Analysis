@@ -71,7 +71,7 @@ Anomalies of SSR:
 
 **Blue Bands (Negative Z-scores)**: These represent "dimmer" years with high cloud cover or atmospheric aerosols.
 
-*White/Pale Areas**: These are "Normal" months where the weather behaved exactly like the 34-year average.
+**White/Pale Areas**: These are "Normal" months where the weather behaved exactly like the 34-year average.
 
 
 The 2016 "Deep Blue" event represents a record-breaking negative anomaly with intense cloud cover likely linked to a strong El Niño phase. The 1992–1993 cluster reflects the atmospheric "dimming" and global cooling caused by the volcanic aerosols following the Mt. Pinatubo eruption.
